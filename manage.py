@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+password = "12346"
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'codeprogress.settings')
     try:
