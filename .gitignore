@@ -1,0 +1,5 @@
+*.pyc
+.docker/gpdata
+db.sqlite3
+__pycache__
+.idea/*
